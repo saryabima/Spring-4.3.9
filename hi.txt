@@ -8,9 +8,9 @@ push -> interact with remote repo
 
 test push 2 20191609 16:30
 
-<<<<<<< HEAD
+
 test push after master-dev merge conflict
-=======
+
 this change is in ?master ?dev
 
->>>>>>> a7879b8ad2f7126a9dc82133aee7e969a17079f3
+Test pull request monitor
