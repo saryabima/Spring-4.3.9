@@ -6,3 +6,5 @@ commit -> interact with local repo
 push -> interact with remote repo
 
 test push 2 20191609 16:30
+
+test push after master-dev merge conflict
