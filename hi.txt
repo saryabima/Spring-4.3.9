@@ -1,3 +1,16 @@
 hi git
 revision code 1
 revision code 2 in local repo branch master
+
+turns out commit and push is
+commit -> interact with local repo
+push -> interact with remote repo
+
+test push 2 20191609 16:30
+
+
+test push after master-dev merge conflict
+
+this change is in ?master ?dev
+
+Test pull request monitor
